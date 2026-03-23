@@ -1,0 +1,50 @@
+[
+  {
+    "product_id": 101,
+    "name": "Samsung Smart TV",
+    "category": "Electronics",
+    "price": 55000,
+    "brand": "Samsung",
+    "specs": {
+      "screen_size": "55 inch",
+      "resolution": "4K",
+      "voltage": "220V"
+    },
+    "warranty": {
+      "period_years": 2,
+      "type": "Manufacturer"
+    },
+    "ratings": [4, 5, 5, 3]
+  },
+  {
+    "product_id": 201,
+    "name": "Men's Denim Jacket",
+    "category": "Clothing",
+    "price": 2500,
+    "brand": "Levis",
+    "sizes_available": ["S", "M", "L", "XL"],
+    "material": "Denim",
+    "care_instructions": {
+      "wash": "Machine wash",
+      "dry": "Do not tumble dry"
+    },
+    "ratings": [5, 4, 4]
+  },
+  {
+    "product_id": 301,
+    "name": "Organic Milk",
+    "category": "Groceries",
+    "price": 60,
+    "brand": "Amul",
+    "expiry_date": "2024-12-20",
+    "nutritional_info": {
+      "calories": 150,
+      "protein": "8g",
+      "fat": "5g"
+    },
+    "storage": {
+      "temperature": "4°C",
+      "type": "Refrigerated"
+    }
+  }
+]
